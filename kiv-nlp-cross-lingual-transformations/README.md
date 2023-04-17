@@ -1,4 +1,4 @@
-# Cross-Lingual Methods for transformation
+# Cross-Lingual Methods for Linear Transformation
 
 The goal is to find a matrix **T** and then transform space **X** using the
 matrix **T** as follows:
