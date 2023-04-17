@@ -98,7 +98,7 @@ The dataset and code can be freely used for academic and research purposes. It i
 
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Publication:
+Publication
 --------
 
 If you use our dataset, software or approach for academic research, please cite the our [paper](https://arxiv.org/abs/2204.13915).
@@ -124,14 +124,14 @@ If you use our dataset, software or approach for academic research, please cite 
 ```
 
 
-Contributors:
+Contributors
 --------
 
 Pavel Přibáň,
 Jakub Šmíd,
 Adam Mištera
 
-Contact:
+Contact
 --------
 pribanp@kiv.zcu.cz
 
