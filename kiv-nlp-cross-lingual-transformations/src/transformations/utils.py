@@ -111,7 +111,6 @@ class NormalizedFastText(object):
     def get_words(self, include_freq=False, on_unicode_error='strict'):
         return self.fasttext.get_words(include_freq=include_freq, on_unicode_error=on_unicode_error)
 
-    # TODO check slovao <unk>
     def get_word_vector(self, word):
         # if word in self.words_set:
         #     word_id = self.fasttext.get_word_id(word)

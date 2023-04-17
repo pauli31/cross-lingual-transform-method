@@ -3,13 +3,6 @@ import numpy as np
 
 # https://realpython.com/python-super/
 
-# TODO az pak - opravit slovniky nektere se prelozili viceslovne
-# TODO udelat evaluaci na word analogy a similarity
-# TODO udelat evaluaci na cross-lingual klasifikaci en-es
-# TODO prejmenovat nazvy souboru na mala pismena - konvence python
-
-
-# TODO http://www.cse.chalmers.se/~richajo/dit866/backup_2019/lectures/l5/
 # http://www.cse.chalmers.se/~richajo/dit866/backup_2019/lectures/l5/PyTorch%20linear%20regression%20demo.html - pytorch implementace
 # https://towardsdatascience.com/how-to-implement-linear-regression-with-pytorch-5737339296a6
 # https://stackoverflow.com/questions/42704283/adding-l1-l2-regularization-in-pytorch

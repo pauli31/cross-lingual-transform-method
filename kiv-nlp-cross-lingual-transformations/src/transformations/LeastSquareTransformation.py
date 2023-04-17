@@ -173,9 +173,6 @@ class LeastSquareTransformation(Transform):
 
         return T
 
-    # TODO cache
-    # TODO pridat device
-    # TODO vykreslit graf
     # mainly based on
     # http://www.cse.chalmers.se/~richajo/dit866/backup_2019/lectures/l5/PyTorch%20linear%20regression%20demo.html
     # https://towardsdatascience.com/how-to-implement-linear-regression-with-pytorch-5737339296a6
