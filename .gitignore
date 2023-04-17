@@ -1,5 +1,16 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+
+.idea/*
+data/analogies/*
+data/emb/*
+*/__pycache__/*
+__pycache__/*
+kiv-nlp-cross-lingual-transformations/src/transformations/tests/__pycache__/
+kiv-nlp-cross-lingual-transformations/src/__pycache__/
+kiv-nlp-cross-lingual-transformations/src/transformations/__pycache__/
+
+
 *.py[cod]
 *$py.class
 

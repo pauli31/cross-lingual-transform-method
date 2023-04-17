@@ -1,0 +1,5 @@
+include LICENSE CHANGES README.rst requirements.txt
+recursive-exclude __pycache__
+recursive-exclude .idea *
+recursive-exclude .git *
+recursive-exclude data *
