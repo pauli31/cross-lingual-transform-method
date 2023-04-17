@@ -394,7 +394,7 @@ https://xavierbourretsicotte.github.io/intro_ridge.html
 https://machinelearningmedium.com/2017/08/17/gradient-descent-for-linear-regression/
 
 https://towardsdatascience.com/simple-linear-regression-explanation-and-implementation-from-scratch-with-python-26325ca5de1a
-tady je pridani biasu
+
 
 https://ml-cheatsheet.readthedocs.io/en/latest/regularization.html
 
@@ -402,8 +402,7 @@ https://towardsdatascience.com/linear-regression-from-scratch-with-numpy-impleme
 
 https://courses.cs.washington.edu/courses/cse446/20wi/Lecture8/08_Regularization.pdf
 
-https://www.youtube.com/watch?v=skOcLw_fXDs - tohle je dobre
-
+https://www.youtube.com/watch?v=skOcLw_fXDs 
 
 [Least Square Method](https://towardsdatascience.com/least-squares-linear-regression-in-python-54b87fc49e77)
 
@@ -411,7 +410,7 @@ https://www.youtube.com/watch?v=skOcLw_fXDs - tohle je dobre
 
 [Video na least square](https://www.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-algebra-another-least-squares-example)
 
-[Tady by to melo byt vysvetlene](https://towardsdatascience.com/analytical-solution-of-linear-regression-a0e870b038d5)
+[Source](https://towardsdatascience.com/analytical-solution-of-linear-regression-a0e870b038d5)
 
 [Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
@@ -419,7 +418,7 @@ https://www.youtube.com/watch?v=skOcLw_fXDs - tohle je dobre
 
 
 
-https://stackoverflow.com/questions/56908913/having-trouble-implementing-a-vectorized-regularized-version-of-logistic-regre tady je ukazana vektorizace s reguralizaci
+https://stackoverflow.com/questions/56908913/having-trouble-implementing-a-vectorized-regularized-version-of-logistic-regre 
 
 #### General Notes
 to create latex equations as image I use [https://latex2image.joeraut.com/](https://latex2image.joeraut.com/)
